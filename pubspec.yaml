@@ -1,7 +1,7 @@
 name: apphud_facebook_sdk
 description: "Apphud Facebook SDK plugin."
 version: 0.0.1
-homepage: apphud.com
+homepage: https://apphud.com
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
