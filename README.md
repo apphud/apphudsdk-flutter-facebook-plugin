@@ -12,7 +12,7 @@ Apphud Facebook SDK is an open-source library for iOS and Android to integrate A
 
 ## Integrations
 
-## Setting things up
+### Setting things up
 
 You must first create an app at Facebook for developers: https://developers.facebook.com/
 
